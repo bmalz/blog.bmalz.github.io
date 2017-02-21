@@ -4,6 +4,7 @@ title: "Migracja zdalnego repozytorium GIT"
 description: ""
 category: GIT
 tags: [git, migracja]
+comments: true
 ---
 Z różnych niezależnych ode mnie powodów zmuszony zostałem do migracji zdalnego repozytorium GIT z visualstudio.com na lokalną instalacje bitbucket. Sprawa niby prosta ale wiąże się z wykonaniem kilku niezbędnych kroków.
 
