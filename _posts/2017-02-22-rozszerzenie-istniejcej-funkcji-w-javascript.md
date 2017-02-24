@@ -6,7 +6,7 @@ category: javascript
 tags: [javascript, hack]
 comments: true
 ---
-``` javascript
+```javascript
 backfill_event = (function() {
 	var cached_function = backfill_event;
 	return function(form, field_name, value, persid, rel_attr_val, caller_type) {
